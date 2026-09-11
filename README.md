@@ -1,4 +1,4 @@
-\# AI Multimodal Medical Diagnostic Assistant
+\ AI Multimodal Medical Diagnostic Assistant
 
 
 
@@ -10,7 +10,7 @@ clinical reasoning.
 
 
 
-\## Current Status
+\ Current Status
 
 
 
@@ -18,7 +18,7 @@ Phase 1 — Foundation
 
 
 
-\## Technology Stack
+\ Technology Stack
 
 
 
@@ -38,7 +38,7 @@ Phase 1 — Foundation
 
 
 
-\## Safety
+\ Safety
 
 
 
